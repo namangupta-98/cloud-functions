@@ -1,3 +1,4 @@
 .env
 .idea/
 emails/.env.yaml
+__pycache__/

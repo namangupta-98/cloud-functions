@@ -11,3 +11,5 @@
 * gcloud projects list //(lists all the projects in gcp)
 * gcloud config set project project_id //(configure project)
 * gcloud functions deploy hello_world --runtime python37 --trigger-http //(deploy function on gcp)
+#### We have to create a .env.yaml to store environment variables and requirements.txt to store other dependencies in the same directory as main.py
+* gcloud functions deploy send_mail --env-vars-file .env.yaml --runtime python38 --trigger-http //(deploy with some environment variables)
