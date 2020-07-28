@@ -1,3 +1,3 @@
-sendgrid.env
+.env
 .idea/
 emails/.env.yaml
