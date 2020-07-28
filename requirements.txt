@@ -1,0 +1,3 @@
+functions-framework
+sendgrid
+Flask~=1.1.2
