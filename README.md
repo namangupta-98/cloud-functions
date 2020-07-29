@@ -21,3 +21,6 @@
 * gcloud pubsub topics create cloud-functions-test
 * gcloud pubsub subscriptions create cron-sub --topic cloud-functions-test
 Create a cronjob at Cloud Scheduler in GCP.
+
+#### Delete Functions
+gcloud functions delete hello_world
