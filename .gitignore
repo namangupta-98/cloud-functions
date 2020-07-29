@@ -2,3 +2,4 @@
 .idea/
 emails/.env.yaml
 __pycache__/
+google-credentials.json
